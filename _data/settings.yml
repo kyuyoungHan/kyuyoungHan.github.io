@@ -3,8 +3,8 @@
 
 menu:
 - {name: '종족별 빌드', url: ''}
-- {name: '종족별 특징',     url: 'blog'}
-- {name: '유사 유즈맵 소개',    url: 'about'}
+- {name: '유사 유즈맵 소개',     url: 'blog'}
+- {name: '종족별 특징',    url: 'about'}
 
 #-------------------------------
 # Projects Section
