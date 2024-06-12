@@ -14,7 +14,7 @@ title: "빠른 무한"
 
 AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵에 따라 일부 AI가 작동하지 않는 경우가 있기 때문에 맵을 잘 보고 플레이해야 한다. 또한 합법적 맵핵을 기본으로 달고 있기에 몰래 건물따위 의미 없다. 그리고 AI 테란은 버그로 인해 처음 주는 커맨드센터에 컴샛 스테이션을 지을 수 있다. 그런데 처음부터 컴샛을 붙여서 지을 수 없는 구조의 맵이라면 테란의 AI가 멀티와 시즈업도 안하고 마린과 탱크만 뽑는 수준에서 멈춰버린다. 그럴 땐 커맨드를 깨서 다시 짓고 컴샛을 짓게 유도하면 망가진 테크를 흘러가게 할 수 있다.
 
-![alt-text](https://i.namu.wiki/i/7Ehsgw1T2xzHWRvFIk13_HtIqVUbMFRrbvbkKXPSHArRq4VRGGdijDH9wQjNvwFgyl9oYXAHzj-10VEfOusuIw.mp4)
+![alt-text](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160529_100%2Flh6746_1464511458388lN2ws_PNG%2FSCScrnShot_052916_171934.png&type=sc960_832)
 
 ## 밸런스
 
@@ -33,46 +33,26 @@ AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵�
 
 이로 인하여 모든 빠른무한 고수나 방송인들은 진심으로 1대1 승부를 할때 많은 유저들은 프로토스를 선택하며 소수의 유저는 테란을 저그의 유저는 보기 드물다. 대회같은 경우도 토스vs토스, 테란vs토스, 저그vs테란 등 종족을 지정하여 게임을 하거나 3대3 등의 팀전의 경우 프로토스의 수를 제안한다.
 
+![alt-text](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjhfNSAg%2FMDAxNjA5MTY2NjIzMDQy.y5S8mh6yoaTLh5U1PQkWgJcKxdP-Snf3BVCByvs4btgg.cPW5TPy0pWbz3VXPivsIjs3efbvQlFtjQBY3BUCYULAg.JPEG.dealyness%2F001.jpg&type=sc960_832)
+
+
+## 빠른무한 종류
+
+1. 빠른무한
+초창기 빠른무한은 아이스 헌터(또는 푸른무한)를 변형한 맵이다. 맵 타일셋이 얼음이고 미네랄이 1시, 3시, 5시는 본진 건물 오른쪽, 7시, 9시, 11시는 본진 건물 왼쪽, 6시, 12시는 각각 아래쪽, 위쪽에 위치해 있다. 또한, 언덕에 건물을 지을 수 있게 되어 있어 테란의 언덕 탱크+벙커+터렛 조이기나 프로토스의 언덕 캐논 플레이가 가능하다. 특이 사항으로는 5시와 7시의 가스가 다른 곳 스타팅보다 한 개 적어 장기전으로 가면 불리해진다. 지금은 슈퍼 빠른무한이나 뉴 슈퍼 빠른무한에 밀려 거의 보이지 않는다.
+
 ![alt-text](https://i.namu.wiki/i/r5Bal80j8659Q7-qE61kisu2BG3_2uTJBVrtd1UKW_yqCbmQMcUFlyMES86PfSjBp6b48lCpZejP4fKlEIwhVsZwQGrsQ38gYap4Ikm94DC5AGfJYoPGCq1cFRPP9od-nlLU0IYbiGjXqlI8JoXH9A.webp)
 
 
-* Commenting support powered by [Disqus](https://disqus.com/).
+2. 슈퍼 빠른무한
+맵 타일셋이 스페이스 플랫폼으로 변경되고 미네랄이 본진건물 아래쪽에 자리하게 되었다. 또한 언덕을 좁게 하여 공간을 넓게 하고 언덕에 건물을 짓는 플레이를 막았다. 지금은 뉴 슈퍼 빠른무한에 밀려 잘 쓰이지 않으나, 1:1이나 4:4 팀전에서는 가끔씩 보인다.
 
-* Optimized for search engines.
+![alt-text](https://i.namu.wiki/i/dut555juA9oJLMvSwtP3rJHQe_ztnIoIj3ouShxVi_qDQfQem2yFOI7DqbbWc-1w-jwWNDmxTolHHUiMdsnD-vX1MMz-esWKSUfIIRpYyR53l6wWv__5yazKs00OyJq0SAFJah6WHzI6UrFWrkeg8A.webp)
 
-* LaTeX support through [MathJax](https://www.mathjax.org/).
+3. 뉴 슈퍼 빠른무한
+건물 심시티를 편하게 하기 위해 바닥이 체크 무늬로 변경되었다. 언덕을 유닛이 통과할 수 없는 지형으로 바꾸어 언덕 탱크로 조이는 플레이를 막았고, 또한 바깥 입구에 건설 불가 타일을 배치하여 상대방 입구를 건물로 막지 못하게 하였다. 8인용 버전과 12시, 6시 스타팅이 제거된 6인용 버전이 있는데, 8인용 버전은 1:1전 또는 4:4 팀전에서, 6인용 버전은 3:3 팀전에서 주로 쓰인다. 가장 많이 플레이되는 버전으로 특히 이 맵의 6인용 버전은 국민맵 투혼과 함께 한국 서버 배틀넷에서 가장 높은 점유율을 보여주고 있다. 빠른 무한맵/전략 및 전술 문서에 있는 내용들도 거의 다 이 맵에서 플레이될 것을 상정하고 기술된 것이다.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-   1. [What is Jekyll](#what-is-jekyll)
-   2. [Never Used Jeykll Before?](#never-used-jekyll-before)
-2. [Installation](#installation)
-   1. [GitHub Pages Installation](#github-pages-installation)
-   2. [Local Installation](#local-installation)
-   3. [Directory Structure](#directory-structure)
-   4. [Starting From Scratch](#starting-from-scratch)
-3. [Configuration](#configuration)
-   1. [Sample Posts](#sample-posts)
-   2. [Site Variables](#site-variables)
-   3. [Adding Menu Pages](#adding-menu-pages)
-   4. [Posts](#posts)
-   5. [Layouts](#layouts)
-   6. [YAML Front Block Matter](#yaml-front-block-matter)
-4. [Features](#features)
-   1. [Design Considerations](#design-considerations)
-   2. [Disqus](#disqus)
-   3. [Google Analytics](#google-analytics)
-   4. [RSS Feeds](#rss-feeds)
-   5. [Social Media Icons](#social-media-icons)
-   6. [MathJax](#mathjax)
-   7. [Syntax Highlighting](#syntax-highlighting)
-   8. [Markdown](#markdown)
-5. [Everything Else](#everything-else)
-6. [Contributing](#Contributing)
-7. [Questions?](#questions)
-8. [Credits](#credits)
-9. [License](#license)
+![alt-text](https://i.namu.wiki/i/ApisqoUTUcj6PNFNVafbAthRymcRinoQ8WoYerJGB1ZPuz13qfsxq5sJVJcnsKdVOoLYS5U9b84wJyPv_zspKs6_scIcSDSNduBCLF-PFyCG0yFVNSuiCpy4v9NPaVpQJ6dYjohDtutto0PtlZqThA.webp)
 
 ## Introduction
 
