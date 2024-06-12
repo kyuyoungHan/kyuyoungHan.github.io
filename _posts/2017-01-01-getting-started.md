@@ -6,9 +6,8 @@ title: "Terran"
 은하계 외곽 지역에 있는 가혹한 불모의 환경에 적응하여 살아야 했던 테란은 그야말로 생존의 명수들이다. 프로토스의 첨단 기술도 저그의 타고난 전투력도 갖추지 못한 테란의 군사력은 다양한 유닛의 조합으로 유지된다. 소모품에 불과하지만 효과적인 해병(Marine)부터 고도의 훈련을 쌓은 망령(Wraith) 전투기 조종사에 이르기까지 테란은 전우의 시체를 넘고 넘어 자신의 영토를 끝까지 수호하는 끈질긴 생명력을 보여 준다. 이 젊은 종족은 자신들의 단점에도 불구하고 어떤 환경에서도 살아남을 수 있다는 굳은 신념을 지니고 있다.
 
 
-![alt-text](https://postfiles.pstatic.net/MjAyMTA5MTJfNjUg/MDAxNjMxNDMyMjQxMjgx.o0EU8XM13UHjBQD68hWvjmwq15R-25WaEJlMnCKf94Qg.AX0f5EAqKA7PfmB_HO3znaGUTdcoA4yM9SoQ8kqqRn4g.JPEG.jjwsuho/StarCraft_%EF%BC%8D_New_Firebat_Concept_by_SamwiseDidier_on_DeviantArt.jpeg.jpg?type=w773)
+![alt-text](https://cloud.githubusercontent.com/assets/8409329/26227987/f2583642-3c03-11e7-81c4-28a9353c91ae.jpg)
 
-![alt-text](https://postfiles.pstatic.net/MjAyMTA5MTJfNzIg/MDAxNjMxNDMyMjUyNDA1.siqbcHTXdjYh9rJkP85_j3fVOXENShH4sXXFKHwYhVsg.bY5t7g-brKxV83qSI1aHpH9XNVm4rODmuSAU_Qv3l7Eg.JPEG.jjwsuho/starcraft%EF%BC%BF2%EF%BC%BF%EF%BC%BFconquest%EF%BC%BFby%EF%BC%BFouterkast%EF%BC%8Dd31dibd.jpg?type=w773)
 ## Notable features
 
 * Compatible with GitHub Pages.
