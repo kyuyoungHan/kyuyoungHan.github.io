@@ -14,7 +14,7 @@ title: "빠른 무한"
 
 AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵에 따라 일부 AI가 작동하지 않는 경우가 있기 때문에 맵을 잘 보고 플레이해야 한다. 또한 합법적 맵핵을 기본으로 달고 있기에 몰래 건물따위 의미 없다. 그리고 AI 테란은 버그로 인해 처음 주는 커맨드센터에 컴샛 스테이션을 지을 수 있다. 그런데 처음부터 컴샛을 붙여서 지을 수 없는 구조의 맵이라면 테란의 AI가 멀티와 시즈업도 안하고 마린과 탱크만 뽑는 수준에서 멈춰버린다. 그럴 땐 커맨드를 깨서 다시 짓고 컴샛을 짓게 유도하면 망가진 테크를 흘러가게 할 수 있다.
 
-![alt-text](https://i.namu.wiki/i/r5Bal80j8659Q7-qE61kisu2BG3_2uTJBVrtd1UKW_yqCbmQMcUFlyMES86PfSjBp6b48lCpZejP4fKlEIwhVsZwQGrsQ38gYap4Ikm94DC5AGfJYoPGCq1cFRPP9od-nlLU0IYbiGjXqlI8JoXH9A.webp)
+![alt-text](https://i.namu.wiki/i/7Ehsgw1T2xzHWRvFIk13_HtIqVUbMFRrbvbkKXPSHArRq4VRGGdijDH9wQjNvwFgyl9oYXAHzj-10VEfOusuIw.mp4)
 
 ## 밸런스
 
@@ -32,6 +32,9 @@ AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵�
 초반에 힘들게 질럿 물량을 막아도 잠깐 한눈 팔면 셔틀에서 내린 하이템플러의 스톰 한방에 미네랄 덩이에 붙어있는 일꾼이 한번에 죽어 게임은 이미 불리해져있으며 일꾼이 죽은지 모르고 나중에서야 알아차려 일꾼을 뽑다가 게임이 끝날 수 있다. 게임내내 미니맵을 주시해야 하며 확인했더라도 일꾼을 빼내는 과정이 숙련되지 않으면 적은 피해로 막아내기 힘들다. 일꾼을 빼는 과정이 숙련되어도 숙련된 프로토스의 일꾼이 빠지는 방향조차 예상하거나 도망칠 수 있는 모든 루트에 스톰을 뿌려 일꾼을 잡는다. 이런 피해를 방지는 방법은 하이템플러를 태우고 있는 셔틀을 요격시켜서 잡는게 가장 효율적인 방법이다. 예를 들어 테란은 터렛과 다수의 마린, 저그는 히드라를 미리 배치해야한다. 
 
 이로 인하여 모든 빠른무한 고수나 방송인들은 진심으로 1대1 승부를 할때 많은 유저들은 프로토스를 선택하며 소수의 유저는 테란을 저그의 유저는 보기 드물다. 대회같은 경우도 토스vs토스, 테란vs토스, 저그vs테란 등 종족을 지정하여 게임을 하거나 3대3 등의 팀전의 경우 프로토스의 수를 제안한다.
+
+![alt-text](https://i.namu.wiki/i/r5Bal80j8659Q7-qE61kisu2BG3_2uTJBVrtd1UKW_yqCbmQMcUFlyMES86PfSjBp6b48lCpZejP4fKlEIwhVsZwQGrsQ38gYap4Ikm94DC5AGfJYoPGCq1cFRPP9od-nlLU0IYbiGjXqlI8JoXH9A.webp)
+
 
 * Commenting support powered by [Disqus](https://disqus.com/).
 
