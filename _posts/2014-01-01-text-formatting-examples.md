@@ -30,14 +30,50 @@ title: "랜덤 능력 크래프트"
 
 ## 주요 특징
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+**랜덤 능력** : 게임이 시작되면 각 유닛은 무작위로 선택된 특별한 능력을 부여받습니다. 이러한 능력은 기본 유닛의 능력을 보강하거나 전혀 새로운 능력을 추가할 수 있다.
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+게임이 시작되면 각 유닛은 무작위로 선택된 특별한 능력을 부여받고 이러한 능력은 기본 유닛의 능력을 보강하거나 전혀 새로운 능력을 추가할 수 있다
 
 
-## Headings
+**유닛 다양성** : 모든 유닛은 고유한 능력을 가지고 있으며, 이 능력들은 게임마다 달라진다. 이는 동일한 유닛이라도 게임마다 다른 방식으로 활용될 수 있음을 의미한다.
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+유닛의 기본 능력과 랜덤으로 부여된 능력의 조합을 통해 다양한 전술을 구사할 수 있다.
+
+
+**전략적 플레이** : 랜덤으로 부여된 능력들로 인해 플레이어는 게임 내내 유연하게 전략을 조정해야 한다 상대방의 능력에 맞춰 대응하거나, 자신의 유닛 능력을 최대한 활용하는 것이 중요하다.
+
+능력의 조합과 활용 방법에 따라 게임의 승패가 결정되므로, 상황에 맞는 빠른 판단과 창의적인 전략이 요구된다.
+
+
+## 게임 플레이 방식
+
+**1. 게임 시작** : 게임이 시작되면 각 플레이어는 자신이 선택한 종족의 기본 유닛을 보유하게 되며, 각 유닛은 랜덤으로 부여된 특별한 능력을 갖게된다.
+
+플레이어들은 기지를 건설하고, 자원을 채취하며, 유닛을 생산하여 전투를 준비한다.
+
+**2. 유닛 생산 및 능력 활용** : 각 유닛은 무작위로 부여된 능력을 사용하여 적을 공격하거나 방어할 수 있다. 예를 들어, 마린은 강력한 원거리 공격을 하거나, 일시적으로 무적 상태가 되는 능력을 가질 수 있다.
+
+플레이어는 유닛의 능력을 최대한 활용하여 적의 공격을 방어하고, 효과적으로 공격을 감행해야 한다.
+
+**3. 자원관리** : 자원 관리 역시 중요하다. 자원을 효율적으로 사용하여 유닛을 생산하고 업그레이드를 진행해야 한다.
+
+자원 채취와 기지 확장을 통해 경제력을 강화하고, 더 강력한 유닛을 생산할 수 있다.
+
+**4. 전투 및 승리 조건** : 각 플레이어는 상대방의 기지를 파괴하거나 모든 유닛을 섬멸하는 것을 목표로 한다. 이를 위해 유닛의 능력을 효과적으로 활용하고 전략을 구사해야 한다.
+
+최종적으로 상대방의 모든 건물을 파괴하거나 항복을 받아내면 승리하게 된다.
+
+
+# 전략적 요소 #
+
+**유닛 조합** : 랜덤 능력으로 인해 다양한 유닛 조합을 실험할 수 있다 특정 능력을 가진 유닛들을 조합하여 시너지 효과를 극대화할 수 있다.
+
+**능력 활용** : 능력의 쿨다운 시간과 사용 조건을 잘 파악하고, 적재적소에 활용하여 전투를 유리하게 이끌어야 한다.
+
+**맵 컨트롤** : 맵 상의 중요한 자원을 차지하고, 적의 이동 경로를 차단하거나 기습을 준비하는 등 맵 컨트롤도 중요한 전략 요소이다.
+
+
+랜덤능력크래프트는 이러한 요소들을 통해 기존의 스타크래프트 1과는 다른 새로운 재미를 제공합니다. 매번 게임을 새롭게 만들어주는 랜덤 능력 덕분에, 플레이어는 끊임없이 새로운 전략을 구상하고 실행하게 됩니다. 이로 인해 높은 재플레이 가치와 다양한 전략적 깊이를 경험할 수 있습니다.
 
 # Heading One (h1)
 
@@ -149,8 +185,8 @@ lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ip
 
 ## 랜덤 능력 크래프트 영상
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZxnNpsYUDo?si=HDwJQq2AJEVaKL0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
 
 <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
