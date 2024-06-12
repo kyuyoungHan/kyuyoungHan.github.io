@@ -36,6 +36,9 @@ AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵�
 ![alt-text](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjhfNSAg%2FMDAxNjA5MTY2NjIzMDQy.y5S8mh6yoaTLh5U1PQkWgJcKxdP-Snf3BVCByvs4btgg.cPW5TPy0pWbz3VXPivsIjs3efbvQlFtjQBY3BUCYULAg.JPEG.dealyness%2F001.jpg&type=sc960_832)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apjK5LP65e8?si=CEoR5yJ1dwHg7YZ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## 빠른무한 종류
 
 1. 빠른무한 :
@@ -53,3 +56,4 @@ AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵�
 건물 심시티를 편하게 하기 위해 바닥이 체크 무늬로 변경되었다. 언덕을 유닛이 통과할 수 없는 지형으로 바꾸어 언덕 탱크로 조이는 플레이를 막았고, 또한 바깥 입구에 건설 불가 타일을 배치하여 상대방 입구를 건물로 막지 못하게 하였다. 8인용 버전과 12시, 6시 스타팅이 제거된 6인용 버전이 있는데, 8인용 버전은 1:1전 또는 4:4 팀전에서, 6인용 버전은 3:3 팀전에서 주로 쓰인다. 가장 많이 플레이되는 버전으로 특히 이 맵의 6인용 버전은 국민맵 투혼과 함께 한국 서버 배틀넷에서 가장 높은 점유율을 보여주고 있다. 빠른 무한맵/전략 및 전술 문서에 있는 내용들도 거의 다 이 맵에서 플레이될 것을 상정하고 기술된 것이다.
 
 ![alt-text](https://i.namu.wiki/i/ApisqoUTUcj6PNFNVafbAthRymcRinoQ8WoYerJGB1ZPuz13qfsxq5sJVJcnsKdVOoLYS5U9b84wJyPv_zspKs6_scIcSDSNduBCLF-PFyCG0yFVNSuiCpy4v9NPaVpQJ6dYjohDtutto0PtlZqThA.webp)
+
