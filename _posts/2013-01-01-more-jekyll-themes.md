@@ -1,22 +1,65 @@
 ---
 layout: post
-title: "More Jekyll Themes!"
+title: "생산과 컨트롤"
 ---
 
-#### Lagrange
+## 주요 특징
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+**자원 관리** :
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+자원을 효율적으로 채취하고 사용해야 한다. 미네랄과 가스를 채취하여 유닛과 건물을 생산한다.
 
-#### Millennial
+자원 관리는 게임의 핵심 요소로, 적절한 타이밍에 자원을 투자하여 경제력을 강화하는 것이 중요하다.
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
+**유닛 생산** : 
+다양한 유닛을 생산하여 적의 공격을 방어하고, 적의 기지를 공격한다.
 
-#### Jekyll Starter Kit
+유닛 생산은 주어진 건물에서 이루어지며, 각 유닛의 특성과 역할을 이해하고 적절히 배치해야 한다.
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+**유닛 컨트롤** :
+정교한 유닛 컨트롤을 통해 전투에서의 효율성을 극대화한다.
+유닛의 이동, 공격, 특수 능력 사용 등을 적절히 조절하여 전투를 유리하게 이끌어야 한다.
+
+
+## 게임 플레이 방식 ##
+
+**초기 설정** : 게임이 시작되면 각 플레이어는 기본 건물과 몇몇 자원을 보유하게 된다. 이를 바탕으로 기지를 확장하고 유닛을 생산한다.
+
+**자원 채취 및 건설** : SCV/드론/프로브를 사용하여 미네랄과 가스를 채취한다. 각 종족마다 채취 방식은 동일하나, 세부적인 차이가 있다.
+
+기지를 확장하여 추가 건물을 건설하고, 방어와 생산 능력을 강화한다.
+
+**유닛 생산** : 
+테란의 경우, 배럭, 팩토리, 스타포트 등을 건설하여 다양한 유닛을 생산한다.
+
+저그는 해처리에서 라바를 사용하여 다양한 유닛으로 변태시키고, 다양한 건물을 통해 더 많은 유닛을 생산할 수 있다.
+
+프로토스는 게이트웨이, 로보틱스 퍼실리티, 스타게이트를 통해 유닛을 생산한다.
+
+
+**유닛 업그레이드** :
+업그레이드 센터를 통해 유닛의 공격력, 방어력, 특수 능력을 강화할 수 있다.
+이는 전투에서 중요한 역할을 한다.
+
+
+**유닛 컨트롤** : 
+유닛의 이동과 공격을 정교하게 조절하여 효율적인 전투를 이끌어야 한다.. 예를 들어, 마린은 스팀팩을 사용하여 공격 속도를 높이고, 시즈탱크는 시즈 모드로 전환하여 장거리 포격을 한다.
+
+저그는 저글링의 빠른 기동성을 활용하거나, 뮤탈리스크를 사용하여 기습 공격을 수행할 수 있다.
+
+프로토스는 하이 템플러의 사이오닉 스톰을 사용하여 대규모 피해를 줄 수 있고, 리버의 스캐럽을 통해 강력한 포격을 가할 수 있다.
+
+
+**전투 및 전략** :
+다양한 유닛을 조합하여 적의 약점을 공략하고, 방어선을 돌파한다. 상대방의 전략에 맞춰 유연하게 대응하는 것이 중요하다.
+
+맵의 지형을 활용하여 유리한 위치에서 전투를 벌이거나, 적의 후방을 기습하는 전략을 사용할 수 있다.
+
+
+## 요약 ##
+
+생산과 컨트롤 유즈맵은 플레이어들이 자원을 관리하고 유닛을 생산하며, 정교한 컨트롤을 통해 적과의 전투에서 승리하는 것을 목표로 한다. 이 맵은 스타크래프트 1의 기본 메커니즘을 활용하면서도, 다양한 전략과 전술을 요구하여 플레이어들에게 도전과 재미를 제공한다. 이를 통해 플레이어는 게임 내에서 자원 관리, 유닛 생산, 업그레이드, 전투 전략 등 다양한 요소를 체험하고, 자신의 게임 플레이 능력을 향상시킬 수 있다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9t5jpsX10KA?si=BEFJMjokL743NrbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
