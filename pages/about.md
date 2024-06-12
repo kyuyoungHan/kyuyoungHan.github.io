@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
-# 빠른 무한
+# 종족 특징 
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+## 테란 
+
+은하계 외곽 지역에 있는 가혹한 불모의 환경에 적응하여 살아야 했던 테란은 그야말로 생존의 명수들이다. 프로토스의 첨단 기술도 저그의 타고난 전투력도 갖추지 못한 테란의 군사력은 다양한 유닛의 조합으로 유지된다. 소모품에 불과하지만 효과적인 해병부터 고도의 훈련을 쌓은 망령 전투기 조종사에 이르기까지 테란은 전우의 시체를 넘고 넘어 자신의 영토를 끝까지 수호하는 끈질긴 생명력을 보여 준다. 이 젊은 종족은 자신들의 단점에도 불구하고 어떤 환경에서도 살아남을 수 있다는 굳은 신념을 지니고 있다.
+

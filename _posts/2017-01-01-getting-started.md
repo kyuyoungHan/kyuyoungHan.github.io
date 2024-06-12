@@ -38,25 +38,24 @@ AI 컴퓨터 대전에서도 충분히 즐길 수 있다. 하지만 일부 맵�
 
 ## 빠른무한 종류
 
-1. 빠른무한
+1. 빠른무한 :
 초창기 빠른무한은 아이스 헌터(또는 푸른무한)를 변형한 맵이다. 맵 타일셋이 얼음이고 미네랄이 1시, 3시, 5시는 본진 건물 오른쪽, 7시, 9시, 11시는 본진 건물 왼쪽, 6시, 12시는 각각 아래쪽, 위쪽에 위치해 있다. 또한, 언덕에 건물을 지을 수 있게 되어 있어 테란의 언덕 탱크+벙커+터렛 조이기나 프로토스의 언덕 캐논 플레이가 가능하다. 특이 사항으로는 5시와 7시의 가스가 다른 곳 스타팅보다 한 개 적어 장기전으로 가면 불리해진다. 지금은 슈퍼 빠른무한이나 뉴 슈퍼 빠른무한에 밀려 거의 보이지 않는다.
 
 ![alt-text](https://i.namu.wiki/i/r5Bal80j8659Q7-qE61kisu2BG3_2uTJBVrtd1UKW_yqCbmQMcUFlyMES86PfSjBp6b48lCpZejP4fKlEIwhVsZwQGrsQ38gYap4Ikm94DC5AGfJYoPGCq1cFRPP9od-nlLU0IYbiGjXqlI8JoXH9A.webp)
 
 
-2. 슈퍼 빠른무한
+2. 슈퍼 빠른무한 :
 맵 타일셋이 스페이스 플랫폼으로 변경되고 미네랄이 본진건물 아래쪽에 자리하게 되었다. 또한 언덕을 좁게 하여 공간을 넓게 하고 언덕에 건물을 짓는 플레이를 막았다. 지금은 뉴 슈퍼 빠른무한에 밀려 잘 쓰이지 않으나, 1:1이나 4:4 팀전에서는 가끔씩 보인다.
 
 ![alt-text](https://i.namu.wiki/i/dut555juA9oJLMvSwtP3rJHQe_ztnIoIj3ouShxVi_qDQfQem2yFOI7DqbbWc-1w-jwWNDmxTolHHUiMdsnD-vX1MMz-esWKSUfIIRpYyR53l6wWv__5yazKs00OyJq0SAFJah6WHzI6UrFWrkeg8A.webp)
 
-3. 뉴 슈퍼 빠른무한
+3. 뉴 슈퍼 빠른무한 :
 건물 심시티를 편하게 하기 위해 바닥이 체크 무늬로 변경되었다. 언덕을 유닛이 통과할 수 없는 지형으로 바꾸어 언덕 탱크로 조이는 플레이를 막았고, 또한 바깥 입구에 건설 불가 타일을 배치하여 상대방 입구를 건물로 막지 못하게 하였다. 8인용 버전과 12시, 6시 스타팅이 제거된 6인용 버전이 있는데, 8인용 버전은 1:1전 또는 4:4 팀전에서, 6인용 버전은 3:3 팀전에서 주로 쓰인다. 가장 많이 플레이되는 버전으로 특히 이 맵의 6인용 버전은 국민맵 투혼과 함께 한국 서버 배틀넷에서 가장 높은 점유율을 보여주고 있다. 빠른 무한맵/전략 및 전술 문서에 있는 내용들도 거의 다 이 맵에서 플레이될 것을 상정하고 기술된 것이다.
 
 ![alt-text](https://i.namu.wiki/i/ApisqoUTUcj6PNFNVafbAthRymcRinoQ8WoYerJGB1ZPuz13qfsxq5sJVJcnsKdVOoLYS5U9b84wJyPv_zspKs6_scIcSDSNduBCLF-PFyCG0yFVNSuiCpy4v9NPaVpQJ6dYjohDtutto0PtlZqThA.webp)
 
-## Introduction
+## 
 
-Portfolio Jekyll Theme is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
 
 ### What is Jekyll?
 
