@@ -56,7 +56,7 @@ title: 'Zerg'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mtC9HBYFIz8?si=BXKGAYxnpSy1r9xh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
- ## Z vs P (프로토스전)
+## Z vs P (프로토스전)
 
 
 **1. 9오버풀**
