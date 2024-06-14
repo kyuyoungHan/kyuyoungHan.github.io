@@ -148,3 +148,6 @@ title: 'Terran'
  - 이후: 탱크, 레이스, 마린을 활용한 다각적인 공격 및 정찰
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48VGiNxBb_A?si=vHvgrVcXyrw1juyj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+**각 빌드는 상대의 전략과 상황에 따라 변형할 수 있습니다. 유연하게 대응하는 것이 중요합니다.**

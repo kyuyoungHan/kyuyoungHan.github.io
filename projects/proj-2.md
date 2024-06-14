@@ -28,7 +28,7 @@ title: 'Zerg'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMQjrTIA9hQ?si=v74uWtILpONFR8au" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 저그전 (ZvZ) 빌드
+## Z vs Z (저그전)
 
 
 
@@ -44,7 +44,7 @@ title: 'Zerg'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrLu_4K2l5A?si=EasbAX7E_JsfJEJd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**2. 12해처리 빌드:**
+**2. 12해처리 빌드**
 
 - 9번째 드론: 오버로드 건설
 - 12번째 드론: 해처리 건설 (주로 내추럴에 건설)
@@ -55,7 +55,8 @@ title: 'Zerg'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mtC9HBYFIz8?si=BXKGAYxnpSy1r9xh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
- ## Z vs P 프로토스전  
+
+ ## Z vs P (프로토스전)
 
 
 **1. 9오버풀**
@@ -91,3 +92,5 @@ title: 'Zerg'
 - 스파이어 완성 후: 뮤탈리스크 생산하여 프로토스 견제
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PssTxQX7Cm4?si=7EHt5Wlw6oDXA0tq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**각 빌드는 상황에 따라 변형될 수 있으며, 상대의 전략에 맞춰 유연하게 대응하는 것이 중요합니다. 상대의 빌드를 빠르게 파악하고 이에 맞춰 전략을 수정하는 것이 승리의 핵심입니다.**
