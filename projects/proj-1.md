@@ -16,7 +16,7 @@ title: 'Terran'
 - 이후: 2배럭, 3배럭 추가 건설하여 바이오닉 병력 증강
 
 
-![alt-text]<iframe width="560" height="315" src="https://www.youtube.com/embed/2rpu0f-qog4?si=veOcz_82xRH0Ji8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2rpu0f-qog4?si=veOcz_82xRH0Ji8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **2. 1배럭 더블 빌드**
 
